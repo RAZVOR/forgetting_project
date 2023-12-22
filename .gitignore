@@ -1,0 +1,6 @@
+masks/
+ssft/
+data/
+models/
+.ipynb_checkpoints
+__pychache__
